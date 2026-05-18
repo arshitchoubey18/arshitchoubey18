@@ -29,7 +29,7 @@
   ARSHIT CHOUBEY  |  DevOps Engineer
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   current_role    : DevOps Engineer @ Joules Two Watts
-  client          : Lenovo (Enterprise Production)
+  client          : Lenovo 
   location        : Bangalore, India  📍
   experience      : 4+ years (Cloud · CI/CD · Linux · AIOps)
   phone           : +91 6261242640

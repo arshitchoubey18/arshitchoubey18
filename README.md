@@ -176,7 +176,7 @@ PHASE 6 ──► Discord ChatOps Bot
 
 `Docker` `Kubernetes (minikube)` `Helm` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `Loki` `Ollama (Mistral LLM)` `LangChain` `FastAPI` `Python` `Discord API`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-00ff41?style=flat-square&logo=github&logoColor=000000)](https://github.com/arshitchoubey18)
+[![View Repo](https://img.shields.io/badge/View_Repo-00ff41?style=flat-square&logo=github&logoColor=000000)](https://github.com/arshitchoubey18/AIOps-Self-Healing-Kubernetes-Platform.git)
 
 ---
 

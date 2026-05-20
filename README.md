@@ -150,31 +150,29 @@
 
 ### 🌟 AIOps Self-Healing Kubernetes Platform &nbsp;`NEW`
 
-> Production-grade AI-powered K8s cluster built from scratch using 100% open-source tools across 7 phases
+> Production-grade AI-powered K8s cluster that runs on a 4GB laptop — 100% open-source, local LLM, no cloud API
 
 ```
-PHASE 1 ──► GitHub Actions CI/CD
-            Docker image builds + tags committed back to Git on every merge
+PHASE 1 → GitHub Actions CI/CD
+Docker builds + push to GHCR on every merge
 
-PHASE 2 ──► ArgoCD GitOps auto-sync
-            Helm charts with automated reconciliation + self-heal policy
+PHASE 2 → ArgoCD GitOps auto-sync
+Helm charts with automated reconciliation + self-heal
 
-PHASE 3 ──► Full Observability
-            Prometheus + Grafana + Loki log aggregation via Promtail
+PHASE 3 → Full Observability
+Prometheus + Grafana + Loki for metrics & logs
 
-PHASE 4 ──► FastAPI AI Agent (Ollama / Mistral LLM)
-            Reads pod logs → structured RCA: severity + fix steps + prevention tips
+PHASE 4 → FastAPI AI Agent (Ollama + qwen2.5:0.5b)
+Reads pod logs → RCA JSON: root_cause, confidence, suggested_fix, healing_action
 
-PHASE 5 ──► Self-Healing Controller (polls every 30s)
-            Detects CrashLoopBackOff / OOMKilled
-            → AI analysis → auto-restart / rollback
-            → Auto-creates GitHub Issues per incident
+PHASE 5 → Self-Healing Controller (Go)
+Detects CrashLoopBackOff / OOMKilled → AI analysis → auto-restart / rollback
 
-PHASE 6 ──► Discord ChatOps Bot
-            !health  !pods  !analyze  !heal  — full cluster mgmt from chat
+PHASE 6 → Discord ChatOps Bot
+!health!analyze!heal — cluster health from chat
 ```
 
-`Docker` `Kubernetes (minikube)` `Helm` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `Loki` `Ollama (Mistral LLM)` `LangChain` `FastAPI` `Python` `Discord API`
+`Docker` `Kubernetes (minikube)` `Helm` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `Loki` `Ollama` `FastAPI` `Python` `Discord API`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-00ff41?style=flat-square&logo=github&logoColor=000000)](https://github.com/arshitchoubey18/AIOps-Self-Healing-Kubernetes-Platform.git)
 

@@ -12,7 +12,7 @@ DevOps Engineer | Linux | AWS | Docker | Kubernetes | Jenkins | GitOps | CI/CD
 
 ## 👨‍💻 About Me
 
-- 💼 IT Professional with **3+ years** of experience in IT Infrastructure & Technical Support.
+- 💼 IT Professional with **4+ years** of experience in IT Infrastructure & Technical Support.
 - 🚀 Transitioning into **DevOps Engineering** with hands-on real-world projects.
 - ☁️ Skilled in **AWS, Linux, Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Prometheus & Grafana**.
 - 🔥 Passionate about **Cloud Computing, Infrastructure Automation, GitOps, CI/CD and Kubernetes.**

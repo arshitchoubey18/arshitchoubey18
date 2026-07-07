@@ -1,189 +1,207 @@
 <div align="center">
 
-# Hi there, I'm Arshit Choubey 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA3F7&height=220&section=header&text=Arshit%20Choubey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Automating%20Infrastructure%20One%20Pipeline%20at%20a%20Time&descAlignY=55&descSize=18" width="100%" />
 
-### DevOps Engineer in the making | Linux · Docker · Kubernetes · Jenkins · AWS · GitOps · CI/CD
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Self-Healing+Kubernetes+%7C+GitOps+%7C+CI%2FCD;4%2B+Years+IT+Ops+%E2%86%92+DevOps+Transition;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=2EA3F7&center=true&vCenter=true&width=750&lines=Linux+%7C+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;Building+Self-Healing+Kubernetes+Systems+%F0%9F%A4%96;GitOps+%7C+CI%2FCD+%7C+Infrastructure+as+Code;4%2B+Years+IT+Ops+%E2%86%92+DevOps+Engineer;Always+Automating.+Always+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshit-choubey-695191406/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshitchoubey.devops@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshitchoubey18)
-
-![Profile Views](https://komarev.com/ghpvc/?username=arshitchoubey18&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/arshit-choubey-695191406/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arshitchoubey.devops@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/arshitchoubey18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=arshitchoubey18&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" width="100%"/>
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Arshit Choubey
-role: Aspiring DevOps Engineer
-location: Bengaluru, Karnataka, India
-experience: 4+ years in IT Infrastructure & Technical Support
-currently_transitioning_into: DevOps Engineering
-currently_learning: [Terraform, Helm, Advanced Kubernetes]
-passionate_about: [Cloud Computing, Automation, GitOps, CI/CD, Self-Healing Systems]
-fun_fact: "Automate everything. Learn continuously. Build reliable systems."
-```
-
-- 💼 4+ years of hands-on experience in **IT Infrastructure & Technical Support**
-- 🚀 Actively building **real-world DevOps projects** — not just tutorials
-- ☁️ Comfortable across **AWS, Linux, Docker, Kubernetes, Jenkins, ArgoCD, Prometheus & Grafana**
-- 🌱 Currently deep-diving into **Terraform, Helm**, and advanced Kubernetes patterns
-- 🎯 Looking for an **entry-level to junior DevOps role** where I can apply both my ops background and automation skills
-- ⚡ Fun fact: I'd rather write a script once than repeat a manual task twice
-
----
-
-## 🏆 Achievements
-
-<img src="https://img.shields.io/badge/🦈_Pull_Shark-2EA3F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Public_Repos-27-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Contributions_This_Year-198-brightgreen?style=for-the-badge" />
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**☁️ Cloud**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-**🐳 DevOps & CI/CD**
-<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**💻 Operating Systems**
-<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**📈 Monitoring & Observability**
-<br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**💻 Languages & Scripting**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**🔧 Version Control**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🤖 [AIOps Self-Healing Kubernetes Platform](https://github.com/arshitchoubey18/AIOps-Self-Healing-Kubernetes-Platform)
-AI-powered platform that detects pod failures, runs LLM-based root-cause analysis, and auto-heals workloads.
-<br/>`Python` `Kubernetes` `Docker` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [GitOps using ArgoCD](https://github.com/arshitchoubey18/gitops-argocd-demo)
-Declarative, continuous Kubernetes deployments straight from Git using ArgoCD.
-<br/>`ArgoCD` `Kubernetes` `Docker` `GitHub`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 [End-to-End CI/CD Pipeline](https://github.com/arshitchoubey18/End-to-End-CI-CD-Pipeline)
-Jenkins pipeline with GitHub webhook integration for automated build, test & deploy.
-<br/>`Jenkins` `Docker` `GitHub` `Linux`
+```yaml
+whoami: Arshit Choubey
+role: Aspiring DevOps Engineer
+based_in: Bengaluru, Karnataka, India
+experience: 4+ years — IT Infrastructure & Technical Support
+transitioning_into: DevOps Engineering (self-driven, hands-on projects)
+core_skills: [Linux, Docker, Kubernetes, Jenkins, AWS, ArgoCD, GitOps]
+currently_learning: [Terraform, Helm, Advanced Kubernetes]
+looking_for: Entry-level / Junior DevOps role
+philosophy: "Automate everything. Learn continuously. Build reliable systems."
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 📊 [Infrastructure Monitoring Setup](https://github.com/arshitchoubey18/monitoring-setup)
-Prometheus & Grafana dashboards for real-time infra and app-level metrics.
-<br/>`Prometheus` `Grafana` `Linux`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 [Linux Automation with Bash](https://github.com/arshitchoubey18/Linux-Automation-using-Bash-Scripting)
-Shell scripts for backups, log cleanup, and routine system maintenance.
-<br/>`Linux` `Bash`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 [Dockerized Application Deployment](https://github.com/arshitchoubey18/dockerized-application-deployment)
-End-to-end containerized app deployment workflow.
-<br/>`Python` `Docker`
+🔭 Building **real infrastructure**, not just following tutorials
+🌱 Deep-diving into **Terraform + Helm** right now
+⚙️ 4+ years of production troubleshooting → now automating it away
+🎯 Open to **Junior / Entry-level DevOps** roles
+💬 Ask me about Linux, Docker, K8s, or CI/CD pipelines
+📫 **arshitchoubey.devops@gmail.com**
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-2EA3F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Public_Repos-27-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contributions_%40_2026-198-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stars_Earned-2-yellow?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,docker,kubernetes,jenkins,githubactions,git,github,bash,python,js,prometheus,grafana,terraform,vim&perline=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/arshitchoubey18/AIOps-Self-Healing-Kubernetes-Platform">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=AIOps-Self-Healing-Kubernetes-Platform&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/arshitchoubey18/gitops-argocd-demo">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=gitops-argocd-demo&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/arshitchoubey18/End-to-End-CI-CD-Pipeline">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=End-to-End-CI-CD-Pipeline&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/arshitchoubey18/monitoring-setup">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=monitoring-setup&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/arshitchoubey18/Linux-Automation-using-Bash-Scripting">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=Linux-Automation-using-Bash-Scripting&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/arshitchoubey18/dockerized-application-deployment">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshitchoubey18&repo=dockerized-application-deployment&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📖 Project details (click to expand)</b></summary>
+<br/>
+
+**🤖 AIOps Self-Healing Kubernetes Platform** — `Python` `Kubernetes` `Docker` `Linux`
+Detects pod failures and auto-triggers recovery workflows using a local LLM for root-cause analysis before remediation. Optimized to run on low-resource hardware.
+
+**⚡ GitOps Deployment using ArgoCD** — `ArgoCD` `Kubernetes` `Docker` `GitHub`
+Declarative, automated K8s deployments straight from Git — consistent, auditable, continuous.
+
+**🔄 End-to-End CI/CD Pipeline** — `Jenkins` `Docker` `GitHub` `Linux`
+GitHub webhook-triggered builds with automated Docker image build & deployment steps.
+
+**📊 Infrastructure Monitoring Setup** — `Prometheus` `Grafana`
+Real-time CPU/memory/app dashboards with proactive alerting before failures hit uptime.
+
+**🐧 Linux Automation with Bash** — `Linux` `Bash`
+Scripts for automated backups, log cleanup, and routine system maintenance.
+
+**🐳 Dockerized Application Deployment** — `Python` `Docker`
+End-to-end containerized app build & deploy workflow.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
 
 ## 🧪 Currently Building
 
-- 🌍 **Terraform-based AWS Infrastructure Automation** — EC2, VPC, S3, IAM as code with remote S3 backend state
-- 🐳 **3-Tier App Deployment on AWS** — Dockerized app on EC2/EKS with load balancing & auto-scaling
-- 📜 **ELK/EFK Centralized Logging Stack** — Elasticsearch, Logstash/Fluentd & Kibana for K8s log aggregation
-- 🔐 **Secrets Management with HashiCorp Vault** — moving off plain K8s secrets to a DevSecOps-ready workflow
+```
+[■■■■■■■□□□] Terraform-based AWS Infrastructure Automation (EC2, VPC, S3, IAM as code)
+[■■■■■□□□□□] 3-Tier App Deployment on AWS (Docker + EC2/EKS + Load Balancing)
+[■■■□□□□□□□] ELK/EFK Centralized Logging Stack for Kubernetes
+[■■□□□□□□□□] Secrets Management with HashiCorp Vault
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arshitchoubey18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitchoubey18&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshitchoubey18&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitchoubey18&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🤝 Connect With Me
+## 📈 GitHub Analytics
 
 <div align="center">
 
-📧 **arshitchoubey.devops@gmail.com**  ·  💼 [LinkedIn](https://www.linkedin.com/in/arshit-choubey-695191406/)  ·  🌐 [GitHub](https://github.com/arshitchoubey18)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshitchoubey18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitchoubey18&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arshitchoubey18&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arshitchoubey18&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
----
+### 🐍 Contribution Snake
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/arshitchoubey18/arshitchoubey18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub><i>To activate the snake animation above, add the <code>Platane/snk</code> GitHub Action to this repo (workflow snippet below).</i></sub>
+
+<details>
+<summary>⚙️ Snake animation workflow (one-time setup)</summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: arshitchoubey18
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arshit-choubey-695191406/"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:arshitchoubey.devops@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
 <i>💡 "Automate everything. Learn continuously. Build reliable systems."</i>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:0F2027&height=100&section=footer" width="100%"/>
